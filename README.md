@@ -1,8 +1,6 @@
 # Deep Sleep Learning Automation
 
-Welcome to the homepage for the Deep Sleep Learning YouTube automation project.
+Welcome to the public portal for Deep Sleep Learning YouTube automation projects.
 
-Deep Sleep Learning produces slow-paced, college-level lectures and audiobooks paired with calming 432Hz sleep soundbeds to facilitate deep sleep, relaxation, and passive knowledge absorption.
-
-- **Privacy Policy**: [Read our Privacy Policy](PRIVACY.md)
+- **Privacy Policy**: [Sleep-Learning-YT-Automation / Privacy.md](Sleep-Learning-YT-Automation/Privacy.md)
 - **Application Homepage**: https://github.com/rahulkumar2022/privacy-policy
